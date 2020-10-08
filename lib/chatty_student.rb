@@ -10,8 +10,16 @@ class ChattyStudent < Student
   end
 
   def raise_hand
-    return super * 10
-    
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
   end
 
 
