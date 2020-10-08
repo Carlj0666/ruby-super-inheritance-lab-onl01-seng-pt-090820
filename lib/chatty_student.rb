@@ -1,9 +1,14 @@
+require_relative "./user.rb"
 
 
+class ChattyStudent < Student
 
-class ChattyStudent
-
-  
+  def hello
+    super
+    
+    
+    
+  end
 
 
 
